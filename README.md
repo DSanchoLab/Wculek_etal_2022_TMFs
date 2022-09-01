@@ -10,4 +10,3 @@ For more details, check the publication: _Oxidative phosphorylation selectively 
 ## Disclaimer
 
 These scripts have the only purpose of providing a resource to reproduce the results shown in **Wculek et al., 2022**. They are not intended to be used in other contexts or be general for other analysis.
-# Wculek_etal_2022_TMFs
