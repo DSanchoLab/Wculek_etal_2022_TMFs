@@ -7,4 +7,4 @@ The repository is divided into two directories:
 
 ## Disclaimer
     
-These scripts have the only purpose of providing a resource to reproduce the results for this study. They are not intended to be used in other contexts or be general for other analysis.
+These scripts have the only purpose of providing a resource to reproduce the results for this study. They are not intended to be used in other contexts or be general for other analyses.
